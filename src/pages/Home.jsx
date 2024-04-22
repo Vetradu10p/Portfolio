@@ -1,12 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Header from '../components/public/Header';
+import AccueilHome from '../components/AccueilHome';
+import Footer from '../components/public/Footer';
 
-const Home = () => {
+const Home = () => {  
     return (
-        <div>
-            <Header/>
-            <h1>Home</h1>
-        </div>
+      <div>
+        <Header />
+        <AccueilHome />
+        <Footer />
+      </div>
     );
 };
 

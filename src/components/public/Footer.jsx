@@ -1,9 +1,12 @@
 import React from 'react';
+import LogPortFolio from '../LogoPortFolio';
+import './footer.scss'
 
 const Footer = () => {
     return (
-        <div>
-            
+        <div className='Footer'>
+            <LogPortFolio />
+            <p>Tous droit réservé</p>
         </div>
     );
 };

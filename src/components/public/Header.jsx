@@ -1,14 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './header.scss'
 import SignPortFolio from '../SignaturePortFolio';
+import './header.scss'
 
 const Header = () => {
     return (
         <div className='Header'>
             <header>
                 <nav>
-                    < SignPortFolio />
+                    <SignPortFolio />
                     <ul>
                         <li className='homeHeader'><Link to="/home">Acceuil</Link></li>
                         <li>Projets</li>

@@ -11,7 +11,7 @@ const Header = () => {
                     <SignPortFolio />
                     <ul>
                         <li className='homeHeader'><Link to="/home">Acceuil</Link></li>
-                        <li>Projets</li>
+                        <li className='Project'><Link to="/Project">Projets</Link></li>
                         <li className='aboutHeader'><Link to="/about">Biographie</Link></li>
                         <li>Contact</li>
                     </ul>

@@ -1,5 +1,5 @@
 .Header {
-    background-color: green;
+    background-color: rgb(32, 32, 32);
     padding-top: 3px;
     position: fixed;
     top: 0;
@@ -17,7 +17,6 @@
             ul {
                 margin-block-start: 0;
                 padding-inline-start: 0;
-                background-color: pink;
                 list-style: none;
                 margin-right: 1%;
                 margin-top: 23px;
@@ -26,6 +25,7 @@
                 height: 30px;
                 gap: 18%;
                 font-size: x-large;
+                color: rgb(3, 128, 144);
             }
     }
 }

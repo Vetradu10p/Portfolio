@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "title": "Html - Css",
+        "cover": "../../../public/images/Html/Html0.png",
+        "pictures": [
+            "../../../public/images/Html/Html0.png",
+            "../../../public/images/Html/Html1.png",
+            "../../../public/images/Html/Html2.png",
+            "../../../public/images/Html/Html3.png"
+        ],
+        "description": "Dans ce projet, je devais créer la page d'acceuil d'une agence de voyage. J'avais également pour mission d'intégrer l'interface en responsive.",
+        "tags": [
+            "Html",
+            "Css",
+            "Figma"
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Javascript",
+        "cover": "../../../public/images/Javascript/Javascript0.png",
+        "pictures": [
+            "../../../public/images/Javascript/Javascript0.png",
+            "../../../public/images/Javascript/Javascript1.png",
+            "../../../public/images/Javascript/Javascript2.png",
+            "../../../public/images/Javascript/Javascript3.png"
+        ],
+        "description": "Dans ce projet, je devais créer une page web dynamique pour un site d'architecte. J'ai géré la gestion des évènements utilisateurs, la manipulation du DOM et créer une modale.",
+        "tags": [
+            "Javascript",
+            "Swagger",
+            "Terminal"
+        ]
+    },
+    {
+        "id": "3",
+        "title": "React",
+        "cover": "../../../public/images/React/React0.png",
+        "pictures": [
+            "../../../public/images/React/React0.png",
+            "../../../public/images/React/React0.png",
+            "../../../public/images/React/React0.png",
+            "../../../public/images/React/React0.png",
+            "../../../public/images/React/React0.png"
+        ],
+        "description": "Dans ce projet, je devais implémenter le front-end en utilisant React et React-router. J'ai travaillé sur la logique des données et les composants React.",
+        "tags": [
+            "Vite",
+            "Sass",
+            "React router dom"
+        ]
+    }
+]

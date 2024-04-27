@@ -1,8 +1,6 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom'; 
 import PeopleWallImage from '@/Assets/Images/Background.png'
-import ProjetService from '@/_Service/ProjectService';
-import Card from '@/Components/Card/Card';
+import Banner from '../../../Components/Banner/Banner';
 import '../../../Assets/Css/home.css'
 
 const Home = () => {  
@@ -11,6 +9,7 @@ const Home = () => {
             <div className='PeopleWallpaperDiv'>
                 <img className="PeopleWallpaper" src={PeopleWallImage} alt="Image contenant un fond d'écran noir et bleu" />
             </div>
+        <Banner />
         </div>
     );
 };

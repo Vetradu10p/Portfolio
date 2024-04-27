@@ -1,0 +1,17 @@
+[
+    {
+        "id": "0",
+        "logo": [
+            "../../../public/images/Logos/Html.png",
+            "../../../public/images/Logos/Css.png",
+            "../../../public/images/Logos/Javascript.png",
+            "../../../public/images/Logos/GitHub.png",
+            "../../../public/images/Logos/React.png",
+            "../../../public/images/Logos/Node.png",
+            "../../../public/images/Logos/Mongo.png",
+            "../../../public/images/Logos/Figma.png",
+            "../../../public/images/Logos/Visual.png",
+            "../../../public/images/Logos/Sass.png"
+        ]
+    }
+]

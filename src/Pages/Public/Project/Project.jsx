@@ -10,7 +10,7 @@ import '../../../Assets/Css/project.css'
 const Project = () => {
     return (
         <div className='ProjetContainer'>
-            <div className='PeopleWallpaperDiv'>
+            <div className='Background'>
                 <img className="PeopleWallpaper" src={PeopleWallImage} alt="Image contenant un fond d'écran couleur or" />
             </div>
             <div className='UlContainer'>

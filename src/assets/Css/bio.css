@@ -1,0 +1,28 @@
+.PContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    text-align: center;
+    gap: 100px;
+    display: flex;
+    align-items: center; 
+}
+
+.PContainer p {
+    font-size: 40px;
+    margin: 20px 0; 
+    overflow: hidden; 
+    white-space: normal; 
+    animation: revealText 7s steps(300, end);
+}
+
+@keyframes revealText {
+    from {
+        width: 0; 
+    }
+    to {
+        width: 100%; 
+    }
+}

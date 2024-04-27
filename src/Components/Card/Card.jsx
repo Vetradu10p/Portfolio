@@ -1,5 +1,7 @@
 import React from "react";
 
+import '../../Assets/Css/card.css'
+
 const Card = ({ project }) => {
     const { cover, description, title } = project;
 

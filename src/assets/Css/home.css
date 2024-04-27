@@ -1,0 +1,23 @@
+.PeopleWallpaper {
+    position: absolute;
+    width: 100%;
+    height: 83vh;
+    margin-top: 80px;
+}
+
+.ProjetGallery {
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+
+ul h2 {
+    text-align: center;
+}
+
+.ProjetContainer a {
+    border-radius: 20px;
+    height: 590px;
+    background-color: rgb(61, 61, 61);
+    text-decoration: none;
+}

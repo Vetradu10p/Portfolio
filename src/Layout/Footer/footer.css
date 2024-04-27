@@ -10,13 +10,13 @@
     z-index: 999;
 }
     
-img {
+.Footer img {
     width: 90px;
     height: auto;
     margin-top: 5px;
 }
 
-p {
+.Footer p {
     color: rgb(3, 128, 144);
     font-size: x-large;
     margin: 10px 0 0 30px;

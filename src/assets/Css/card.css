@@ -1,0 +1,19 @@
+.ImageContainer img {
+    width: 430px;
+    height: 400px;
+    border-radius: 20px;
+}
+
+.Title {
+    background-color: white;
+    width: 190px;
+    border-radius: 20px;
+    margin-left: 120px;
+}
+
+.Card P {
+    margin: 20px 15px;
+}
+.Card {
+    width: 430px;
+}

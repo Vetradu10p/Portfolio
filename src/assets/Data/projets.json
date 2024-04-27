@@ -26,7 +26,7 @@
             "../../../public/images/Javascript/Javascript2.png",
             "../../../public/images/Javascript/Javascript3.png"
         ],
-        "description": "Dans ce projet, je devais créer une page web dynamique pour un site d'architecte. J'ai géré la gestion des évènements utilisateurs, la manipulation du DOM et créer une modale.",
+        "description": "Dans ce projet, je devais créer une page web dynamique pour un site d'architecte. J'ai géré la manipulation du DOM et créer une modale.",
         "tags": [
             "Javascript",
             "Swagger",
@@ -35,7 +35,7 @@
     },
     {
         "id": "3",
-        "title": "React",
+        "title": "React Js",
         "cover": "../../../public/images/React/React0.png",
         "pictures": [
             "../../../public/images/React/React0.png",

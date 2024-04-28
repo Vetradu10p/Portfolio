@@ -10,7 +10,7 @@ const Bio = () => {
                 <img className="PeopleWallpaper" src={PeopleWallImage} alt="Image contenant un fond d'écran couleur or" />
             </div>
             <div className="PContainer">
-                <p>
+                <p className='PClass'>
                     Depuis que je suis enfant, le monde du multimédia et du digital m'a toujours fasciné. Que ce soit à travers les jeux vidéos, les films captivants, les séries palpitantes, les mangas remplis d'aventures ou les animés éblouissants, j'ai toujours été intrigué par la manière dont ces médias parviennent à transporter les spectateurs dans des mondes extraordinaires. Cette passion pour le digital a guidé mes choix depuis longtemps, c'est pourquoi j'ai décidé de suivre une formation de développeur web chez Openclassroom.
                 </p>
                 <p>

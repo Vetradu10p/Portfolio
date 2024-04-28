@@ -1,6 +1,6 @@
 .Header {
     background-color: rgb(32, 32, 32);
-    padding-top: 3px;
+    padding-top: 5px;
     position: fixed;
     top: 0;
     width: 100%;
@@ -30,9 +30,11 @@ ul {
     margin-right: 1%;
     margin-top: 23px;
     display: flex;
-    width: 42%;
-    height: 30px;
-    gap: 18%;
+    flex-wrap: wrap; 
+    width: auto; 
+    height: auto; 
     font-size: x-large;
     color: rgb(3, 128, 144);
+    justify-content: space-around;
+    gap: 50px;
 }

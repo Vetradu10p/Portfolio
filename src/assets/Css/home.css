@@ -21,3 +21,9 @@ ul h2 {
     background-color: rgb(61, 61, 61);
     text-decoration: none;
 }
+
+@media screen and (max-width: 1024px) {
+    .PeopleWallpaper {
+        height: 88vh;
+    }
+}

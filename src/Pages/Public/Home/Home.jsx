@@ -1,5 +1,5 @@
 import React from 'react';
-import PeopleWallImage from '@/Assets/Images/Background.png'
+import PeopleWallImage from '@/Assets/Images/Background.jpg'
 import Banner from '../../../Components/Banner/Banner';
 import '../../../Assets/Css/home.css'
 

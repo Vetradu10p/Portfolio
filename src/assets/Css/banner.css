@@ -11,26 +11,26 @@
 
 .Slider {
     width: 100%;
-    height: 115px;
     background-color: black;
-    height: fit-content;
     position: absolute;
     overflow: hidden;
-    margin-top: 752px;
+    margin-top: 802px;
 }
 
 .LogoGallery {
     width: fit-content;
-    height: 70px;
+    height: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .LogoLi img{
-    margin-top: 10px;
-    margin-right: 90px;
+    margin-top: -15px;
+    margin-right: 54px;
     animation: slide 5s linear infinite;
+    height: 50px;
+    width: auto;
 }
 @keyframes slide {
     from {

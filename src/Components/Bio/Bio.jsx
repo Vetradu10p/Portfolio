@@ -1,5 +1,5 @@
 import React from 'react';
-import PeopleWallImage from '@/Assets/Images/Background.jpg'
+import Wallpaper from '@/Assets/Images/Background.png'
 
 import '../../Assets/Css/bio.css'
 
@@ -7,7 +7,7 @@ const Bio = () => {
     return (
         <div className='BioContainer'>
             <div className='Background'>
-                <img className="PeopleWallpaper" src={PeopleWallImage} alt="Image contenant un fond d'écran couleur or" />
+                <img className="PeopleWallpaper" src={Wallpaper} alt="Image contenant un fond d'écran couleur or" />
             </div>
             <div className="PContainer">
                 <p className='PClass'>

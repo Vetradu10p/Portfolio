@@ -4,6 +4,7 @@
     position: fixed;
     top: 0;
     width: 100%;
+    height: 75px;
     z-index: 999;
 }
 
@@ -37,4 +38,18 @@ ul {
     color: rgb(3, 128, 144);
     justify-content: space-around;
     gap: 50px;
+}
+
+@media screen and (max-width: 768px) {
+    .Header {
+        height: 140px;
+    }
+
+    nav {
+        flex-direction: column;
+    }
+    .centered {
+        margin-left: auto;
+        margin-right: auto;
+    }
 }

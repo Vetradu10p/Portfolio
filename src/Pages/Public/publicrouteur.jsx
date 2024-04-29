@@ -1,7 +1,7 @@
 import React from 'react';
 
 import { Routes, Route, Navigate } from "react-router-dom";
-import { Home, About, Project, Error404 } from "@/Pages/Public/index";
+import { Home, About, Project, Contact, Error404 } from "@/Pages/Public/index";
 
 import Layout from "@/Layout/layout";
 import ProjectDetail from '../Public/ProjectDetail/ProjectDetail'
@@ -17,6 +17,7 @@ const publicrouteur = () => {
             <Route path="/home" element={<Home />} />
             <Route path='/project' element={<Project />} />
             <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
             <Route path="/ProjectDetail/:id" element={<ProjectDetail />} />
 
             <Route path="*" element={<Error404 />} />

@@ -11,13 +11,13 @@ const Header = () => {
             <header>
                 <nav>
                     <div>
-                        <img className="SignPortfolio" src={SignPortFolioImage} alt="Image contenant mon logo et mon nom et prénom" />
+                        <img className="SignPortfolio centered" src={SignPortFolioImage} alt="Image contenant mon logo et mon nom et prénom" />
                     </div>
                     <ul>
                         <li className='homeHeader'><Link to="/home">Acceuil</Link></li>
                         <li className='project'><Link to="/project">Projets</Link></li>
                         <li className='aboutHeader'><Link to="/about">Biographie</Link></li>
-                        <li>Contact</li>
+                        <li className='contact'><Link to="/contact">Contact</Link></li>
                     </ul>
                 </nav>
             </header>

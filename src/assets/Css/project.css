@@ -24,6 +24,7 @@
 
 .ProjetGallery {
     gap: 100px;
+    margin-left: 140px;
 }
 
 @media screen and (max-width: 1024px) {

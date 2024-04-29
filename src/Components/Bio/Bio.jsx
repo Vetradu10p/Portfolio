@@ -1,5 +1,5 @@
 import React from 'react';
-import Wallpaper from '@/Assets/Images/Background.png'
+import Wallpaper from '@/Assets/Images/Background.avif'
 
 import '../../Assets/Css/bio.css'
 

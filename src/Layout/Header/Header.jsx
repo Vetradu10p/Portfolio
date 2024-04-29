@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 
-import SignPortFolioImage from "@/Assets/Images/SignPortfolio.png"
+import SignPortFolioImage from "@/Assets/Images/SignPortfolio.avif"
 
 import './header.css'
 

@@ -1,7 +1,7 @@
 import React from 'react';
-import Wallpaper from '@/Assets/Images/BackgroundText.png'
-import Mickael from '@/Assets/Images/Mickael.png'
-import Developpeur from '@/Assets/Images/Developpeur.png'
+import Wallpaper from '@/Assets/Images/BackgroundText.avif'
+import Mickael from '@/Assets/Images/Mickael.avif'
+import Developpeur from '@/Assets/Images/Developpeur.avif'
 import Banner from '../../../Components/Banner/Banner';
 import '../../../Assets/Css/home.css'
 

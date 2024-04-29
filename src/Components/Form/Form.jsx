@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-import Wallpaper from '@/Assets/Images/Background.png'
+import Wallpaper from '@/Assets/Images/Background.avif'
 
 import '../../Assets/Css/form.css'
 

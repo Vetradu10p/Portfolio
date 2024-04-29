@@ -2,7 +2,7 @@ import React from 'react';
 
 import './footer.css'
 
-import LogPortFolioImage from '@/Assets/Images/LogoPortfolio.png'
+import LogPortFolioImage from '@/Assets/Images/LogoPortfolio.avif'
 const Footer = () => {
     return (
         <div className='Footer'>

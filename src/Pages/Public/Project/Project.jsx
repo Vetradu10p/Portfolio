@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import ProjetService from '@/_Service/ProjectService';
 import Card from '@/Components/Card/Card';
-import PeopleWallImage from '@/Assets/Images/Background.png'
+import PeopleWallImage from '@/Assets/Images/Background.avif'
 
 import '../../../Assets/Css/project.css'
 
